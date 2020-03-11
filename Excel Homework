@@ -1,0 +1,11 @@
+Excel Homework: Kickstart My Chart
+
+In reviewing and analyzing the data of 4,000 past Kickstarter projects, I have found the following conclusions about these Kickstarter campaigns.
+
+The most successful campaigns appear to be related to the arts. “Theater” tends to be the most sought after, followed by “music”, then “film & video”. Music was actually found to be the most successful of those three based on percentage.
+From looking at the sub category, we see that “plays” are the largest block and “rock” tends to be popular and successful. “Animation”, “drama”, “jazz” and “video games” appear to fail quite often.
+Spring seems to be the time of the year where most campaigns succeed.
+
+The information in the dataset is limited to category/subcategory, country and time. There are other factors that could determine success or failure.
+
+Another table/graph that could be built is one that shows the success/failure rate based on country. 
